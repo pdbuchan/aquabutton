@@ -1,12 +1,10 @@
 # AquaButton
 
+The illustrated tutorial is available on the [Aquabutton GitHub Pages website](https://pdbuchan.github.io/aquabutton/).
+
 A step-by-step **Adobe Photoshop 6** tutorial for creating an Aqua-style button, illustrated with screenshots from each stage of the process.
 
 ![Photoshop 6 AquaButton Tutorial](docs/images/title.jpg)
-
-## GitHub Pages
-
-This repository is arranged so the tutorial can be published directly from the `docs/` directory.
 
 ## Repository layout
 
