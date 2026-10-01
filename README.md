@@ -25,6 +25,3 @@ aquabutton/
 
 The tutorial was written for Photoshop 6, so menu names and controls may differ in later Photoshop releases.
 
-## Author
-
-P. David Buchan
